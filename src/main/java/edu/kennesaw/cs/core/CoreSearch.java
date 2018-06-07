@@ -22,6 +22,7 @@ public interface CoreSearch {
      */
     void addToIndex(Document document);
 
+
     /*
       The search implementation
 
